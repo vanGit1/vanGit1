@@ -1,8 +1,17 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**vanGit1/vanGit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<div id="badges">
+  <a href="https://t.me/Ivan_goge">
+  <img src="https://img.shields.io/twitter/url?label=%20Telegram%20&style=flat-square&url=https%3A%2F%2Ft.me%2FIvan_goge"/>
+</div>
+<img src="https://komarev.com/ghpvc/?username=vanGit1&style=flat-square&color=blue" alt=""/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
