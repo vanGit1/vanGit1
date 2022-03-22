@@ -1,11 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
-</div>
-
-<div id="badges">
-  <a href="https://t.me/Ivan_goge">
-  <img src="https://img.shields.io/twitter/url?label=%20Telegram%20&style=flat-square&url=https%3A%2F%2Ft.me%2FIvan_goge"/>
-</div>
 <img src="https://komarev.com/ghpvc/?username=vanGit1&style=flat-square&color=blue" alt=""/>
   <h1>
   hey there
@@ -30,8 +22,6 @@ I am a junior FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcM
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="React" width="40" height="40"/>&nbsp;   -->
 </div>
   
-  ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vanGit1&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanGit1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
