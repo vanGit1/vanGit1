@@ -2,11 +2,6 @@
   <h1>
   hey there
  </h1>
-
-### :man_technologist: About Me :
-  
-I am a junior FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">.
-  
   
 ### :hammer_and_wrench: Languages and Tools :
 
